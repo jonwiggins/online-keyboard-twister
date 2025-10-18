@@ -1,0 +1,22 @@
+{
+  "name": "online-twister",
+  "version": "1.0.0",
+  "description": "Online multiplayer keyboard twister game",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node server/index.js",
+    "dev": "cross-env NODE_ENV=development node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nanoid": "^5.1.6",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "cross-env": "^10.1.0"
+  }
+}
