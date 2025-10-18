@@ -3,7 +3,8 @@
 A 100% vibe-coded webapp that let's you play a version of twister with your friends online.
 
 ## The App
-<img width="1254" height="1003" alt="image" src="https://github.com/user-attachments/assets/6522c212-c013-4df3-a060-8cf41544e74c" />
+<img width="1251" height="1030" alt="image" src="https://github.com/user-attachments/assets/896c5a4a-ed0a-4f2b-8126-bce2dcd95da6" />
+
 
 
 ## Creation Process
